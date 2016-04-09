@@ -1,0 +1,102 @@
+_repo: The-Idiot_2638
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Martin, Eva M.
+    gutenberg_agent_id: '981'
+    url: http://www.gutenberg.org/2009/agents/981
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostoievski, Fiodor
+    - Dostoievski, Fedor Mikhailovitch
+    - Достоевский, Фёдор Михайлович
+    - Dostoevsky, Fyodor
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: "The Idiot (Russian: Идио́т, Idiot) is a novel by the 19th-century Russian\
+  \ author Fyodor Dostoyevsky. It was first published serially in the journal The\
+  \ Russian Messenger in 1868-9.\nThe title is an ironic reference to the central\
+  \ character of the novel, Prince Lyov Nikolaevich Myshkin, a young man whose goodness\
+  \ and open-hearted simplicity lead many of the more worldly characters he encounters\
+  \ to mistakenly assume that he lacks intelligence and insight. In the character\
+  \ of Prince Myshkin, Dostoevsky set himself the task of depicting \"the positively\
+  \ good and beautiful man\". The novel examines the consequences of placing such\
+  \ a unique individual at the centre of the conflicts, desires, passions and egoism\
+  \ of worldly society, both for the man himself and for those with whom he becomes\
+  \ involved. The result, according to philosopher A.C. Grayling, is \"one of the\
+  \ most excoriating, compelling and remarkable books ever written; and without question\
+  \ one of the greatest.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2001-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2638'
+  wikidata: Q210784
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Russia -- Social conditions -- 1801-1917 -- Fiction'
+- !lcc 'PG'
+- GITenberg
+title: The Idiot
+url: http://www.gutenberg.org/ebooks/2638
+wikipedia:
+- https://fi.wikipedia.org/wiki/Idiootti_(romaani)
+- https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A9%81%E0%A9%B1%E0%A8%A7%E0%A9%82
+- https://sv.wikibooks.org/wiki/Idioten
+- https://fa.wikipedia.org/wiki/%D8%A7%D8%A8%D9%84%D9%87
+- https://ru.wikisource.org/wiki/%D0%98%D0%B4%D0%B8%D0%BE%D1%82_(%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)
+- https://bg.wikipedia.org/wiki/%D0%98%D0%B4%D0%B8%D0%BE%D1%82_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://lt.wikipedia.org/wiki/Idiotas_(romanas)
+- https://uk.wikipedia.org/wiki/%D0%86%D0%B4%D1%96%D0%BE%D1%82_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://az.wikipedia.org/wiki/S%C9%99feh_(roman)
+- https://bs.wikiquote.org/wiki/Idiot_(Dostojevski)
+- https://pl.wikiquote.org/wiki/Idiota_(powie%C5%9B%C4%87)
+- https://sv.wikipedia.org/wiki/Idioten
+- https://ja.wikipedia.org/wiki/%E7%99%BD%E7%97%B4_(%E3%83%89%E3%82%B9%E3%83%88%E3%82%A8%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BC)
+- https://pt.wikipedia.org/wiki/O_Idiota
+- https://sr.wikipedia.org/wiki/%D0%98%D0%B4%D0%B8%D0%BE%D1%82_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://hy.wikiquote.org/wiki/%D4%B1%D5%BA%D5%B8%D6%82%D5%B7%D5%A8
+- https://es.wikipedia.org/wiki/El_idiota
+- https://en.wikipedia.org/wiki/The_Idiot
+- https://ru.wikipedia.org/wiki/%D0%98%D0%B4%D0%B8%D0%BE%D1%82_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://ro.wikipedia.org/wiki/Idiotul
+- https://et.wikipedia.org/wiki/Idioot_(Dostojevski)
+- https://fr.wikipedia.org/wiki/L%27Idiot
+- https://sh.wikipedia.org/wiki/Idiot_(roman)
+- https://zh.wikipedia.org/wiki/%E7%99%BD%E7%97%B4_(%E5%B0%8F%E8%AA%AA)
+- https://tk.wikipedia.org/wiki/Tentek
+- https://pl.wikipedia.org/wiki/Idiota_(powie%C5%9B%C4%87)
+- https://hu.wikipedia.org/wiki/A_f%C3%A9lkegyelm%C5%B1
+- https://kw.wikipedia.org/wiki/An_Ydyot
+- https://ru.wikiquote.org/wiki/%D0%98%D0%B4%D0%B8%D0%BE%D1%82_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://nl.wikipedia.org/wiki/De_idioot
+- https://sq.wikipedia.org/wiki/Idioti
+- https://da.wikipedia.org/wiki/Idioten
+- https://mk.wikipedia.org/wiki/%D0%98%D0%B4%D0%B8%D0%BE%D1%82_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://ka.wikipedia.org/wiki/%E1%83%98%E1%83%93%E1%83%98%E1%83%9D%E1%83%A2%E1%83%98_(%E1%83%A0%E1%83%9D%E1%83%9B%E1%83%90%E1%83%9C%E1%83%98)
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D8%A8%D9%84%D9%87_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://lb.wikipedia.org/wiki/Den_Idiot
+- https://sl.wikipedia.org/wiki/Idiot_(roman)
+- https://cs.wikipedia.org/wiki/Idiot_(rom%C3%A1n)
+- https://it.wikiquote.org/wiki/L%27idiota
+- https://de.wikipedia.org/wiki/Der_Idiot
+- https://ml.wikipedia.org/wiki/%E0%B4%A6_%E0%B4%87%E0%B4%A1%E0%B4%BF%E0%B4%AF%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D
+- https://hy.wikipedia.org/wiki/%D4%B1%D5%BA%D5%B8%D6%82%D5%B7%D5%A8
+- https://it.wikipedia.org/wiki/L%27idiota
+- https://vep.wikipedia.org/wiki/Idiot_(roman)
+- https://no.wikipedia.org/wiki/Idioten_(roman)
+- https://hr.wikipedia.org/wiki/Idiot_(Fjodor_Dostojevski)
+- https://cs.wikiquote.org/wiki/D%C3%ADlo:Idiot
+- https://ca.wikipedia.org/wiki/L%27idiota
+- https://tr.wikipedia.org/wiki/Budala
+- https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%93%D7%99%D7%95%D7%98_(%D7%A1%D7%A4%D7%A8)
